@@ -52,6 +52,10 @@ Siga as etapas abaixo para rodar o jogo na sua máquina.
    ```bash
    git clone https://github.com/seuusuario/pong.git
    cd pong
+
+2. Execute o arquivo.py
+
+
 ## 🎲 Regras do Jogo
 1. O jogo é para dois jogadores.
 2. Cada jogador controla uma raquete com as seguintes teclas:
