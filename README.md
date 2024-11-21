@@ -61,7 +61,7 @@ Siga as etapas abaixo para rodar o jogo na sua máquina.
 ### **Instalação**
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seuusuario/pong.git
+   git clone https://github.com/seu_usuario/pong.git
    cd pong
 
 2. Execute o arquivo.py
