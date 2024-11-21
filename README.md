@@ -35,7 +35,7 @@ O **Pong** é um jogo de ping-pong digital para dois jogadores. Os jogadores con
 
 ![Gameplay Pong](https://bavatuesdays.com/wp-content/uploads/2012/02/1pong.gif)
 
-*(Imagem ilustrativa. Substitua por um GIF ou vídeo do seu jogo rodando.)*
+
 
 ---
 
@@ -45,7 +45,18 @@ Siga as etapas abaixo para rodar o jogo na sua máquina.
 
 ### **Pré-requisitos**
 - Python 3.8 ou superior
-- Pygame instalado
+- Pygame instalado (Execute o comando abaixo)
+
+  		pip install pip
+
+  Esse comando instala ou atualiza o pip local.
+
+
+  Após isso execute este comando:
+
+  		pip install pygame
+
+  Esse comando instala a biblioteca responsável pela execução do jogo.
 
 ### **Instalação**
 1. Clone o repositório:
